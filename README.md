@@ -44,7 +44,7 @@ I am a frontend developer currently pursuing B.Tech in Computer Science with a s
 ## 🚀 About Me
 
 - 🔭 I’m currently working on improving my frontend skills.
-- 🌱 I’m currently learning advanced JavaScript and React.
+- 🌱 I’m currently learning advanced Java.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [email](mailto:sahelisahoo1809@gmail.com)
@@ -97,14 +97,20 @@ I am a frontend developer currently pursuing B.Tech in Computer Science with a s
 
 ## 🎮 Fun Zone: Play a Game
 
-![Snake Game](https://github.com/crapbagaah/crapbagaah/raw/output/github-contribution-grid-snake.svg)
+![Snake Game]([https://github.com/crapbagaah/crapbagaah/raw/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation))
+
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
 ## 📅 My Recent Activity
 
 Learning:
-Advanced Java 
+Advanced Java &
 Full Stack Java
 
 ---
