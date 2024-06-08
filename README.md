@@ -1,11 +1,9 @@
-### Hi there, welcome to Saheli's profile! 👋
+<p align="center">### Hi there, welcome to Saheli's profile! 👋 </p>
 
 <!--
 **crapbagaah/crapbagaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Hi there, I'm Saheli 👋
-
-<span style="color: blue; font-weight: bold; font-size: 20px;">I am a frontend developer currently pursuing B.Tech in Computer Science with a specialization in Information Security. I love to explore new technologies and leverage them to solve real-life problems.</span>
+I am a frontend developer currently pursuing B.Tech in Computer Science with a specialization in Information Security. I love to explore new technologies and leverage them to solve real-life problems.
 
 ---
 
@@ -37,7 +35,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crapbagaah&style=flat-square&color=blue" alt="Profile Views" /> 
@@ -78,21 +75,6 @@
   </a>
 </p>
 
-
----
-
-## 📈 LeetCode Status
-
-<p align="center">
-  <!-- Use an image or a dynamic badge service to display LeetCode stats -->
-  <img src="https://leetcard.jacoblin.cool/sahsah?ext=activity&theme=dark" alt="LeetCode Stats" />
-</p>
-
----
-
-## 🎮 Fun Zone: Play a Game
-
-![Snake Game](https://github.com/crapbagaah/crapbagaah/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
