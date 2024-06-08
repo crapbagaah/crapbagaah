@@ -34,11 +34,10 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crapbagaah&" alt="crapbagaah" /></p>--> 
 
-# Hi there, I'm [Your Name] 👋
 
-![Header](https://your-header-image-url.com)
+<!--![Header](https://your-header-image-url.com)-->
 
-I am a passionate frontend developer currently pursuing B.Tech in Computer Science with a specialization in Information Security. I love to explore new technologies and leverage them to solve real-life problems.
+I am a frontend developer currently pursuing B.Tech in Computer Science with a specialization in Information Security. I love to explore new technologies and leverage them to solve real-life problems.
 
 ---
 
@@ -48,7 +47,7 @@ I am a passionate frontend developer currently pursuing B.Tech in Computer Scien
 - 🌱 I’m currently learning advanced JavaScript and React.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [email](mailto:sahelisahoo1809@gmail.com)
 
 ---
 
@@ -90,9 +89,9 @@ I am a passionate frontend developer currently pursuing B.Tech in Computer Scien
 
 ## 🔍 Find me on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourleetcodeprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahelisahoo)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/crapbagaah)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sahsah)
 
 ---
 
@@ -104,12 +103,12 @@ I am a passionate frontend developer currently pursuing B.Tech in Computer Scien
 
 ## 📅 My Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+Learning:
+Advanced Java 
+Full Stack Java
 
 ---
 
-![Footer](https://your-footer-image-url.com)
 
 
 
