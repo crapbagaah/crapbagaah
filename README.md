@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 <h1 align="center">Hi 👋, I'm Saheli</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crapbagaah&label=Profile%20views&color=0e75b6&style=flat" alt="crapbagaah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crapbagaah" alt="crapbagaah" /></a> </p>
+<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=crapbagaah" alt="crapbagaah" /></a> </p>
 
 - 👯 I’m looking to collaborate on **webpage designing**
 
