@@ -15,7 +15,7 @@ I am a frontend developer currently pursuing B.Tech in Computer Science with a s
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [sahelisahoo](mailto:sahelisahoo1809@gmail.com)
 
----
+[](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🛠️ Skills
 
