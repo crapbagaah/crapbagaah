@@ -39,6 +39,15 @@ I am a frontend developer currently pursuing B.Tech in Computer Science with a s
 
 ---
 
+## 🎉 Profile Views and Stars
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=crapbagaah&style=flat-square&color=blue" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/stars/crapbagaah?style=flat-square&color=blue" alt="GitHub Stars" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -69,6 +78,16 @@ I am a frontend developer currently pursuing B.Tech in Computer Science with a s
   <a href="https://leetcode.com/sahsah">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+</p>
+
+
+---
+
+## 📈 LeetCode Status
+
+<p align="center">
+  <!-- Use an image or a dynamic badge service to display LeetCode stats -->
+  <img src="https://leetcard.jacoblin.cool/sahsah?ext=activity&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
