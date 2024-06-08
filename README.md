@@ -5,7 +5,7 @@
 
 # Hi there, I'm Saheli 👋
 
-I am a frontend developer currently pursuing B.Tech in Computer Science with a specialization in Information Security. I love to explore new technologies and leverage them to solve real-life problems.
+<span style="color: blue; font-weight: bold; font-size: 20px;">I am a frontend developer currently pursuing B.Tech in Computer Science with a specialization in Information Security. I love to explore new technologies and leverage them to solve real-life problems.</span>
 
 ---
 
@@ -38,8 +38,6 @@ I am a frontend developer currently pursuing B.Tech in Computer Science with a s
 </p>
 
 ---
-
-## 🎉 Profile Views and Stars
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crapbagaah&style=flat-square&color=blue" alt="Profile Views" /> 
