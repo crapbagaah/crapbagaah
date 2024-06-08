@@ -3,7 +3,7 @@
 <!--
 **crapbagaah/crapbagaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+Here are some ideas to get you started: 
 
 <h1 align="center">Hi 👋, I'm Saheli</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crapbagaah&label=Profile%20views&color=0e75b6&style=flat" alt="crapbagaah" /> </p>
@@ -12,11 +12,11 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m looking to collaborate on **webpage designing**
 
-<!-- - 👨‍💻 All of my projects are available at [https://sahelisahoo.netlify.app/](https://sahelisahoo.netlify.app/)-->
+<!-- - 👨‍💻 All of my projects are available at [https://sahelisahoo.netlify.app/](https://sahelisahoo.netlify.app/)
 
 - 📫 How to reach me **sahelisahoo1809@gmail.com**
 
-<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/17NnZype1_XevHhXfmx5o3QbgJXomUscq/view?usp=sharing](https://drive.google.com/file/d/17NnZype1_XevHhXfmx5o3QbgJXomUscq/view?usp=sharing)--> 
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/17NnZype1_XevHhXfmx5o3QbgJXomUscq/view?usp=sharing](https://drive.google.com/file/d/17NnZype1_XevHhXfmx5o3QbgJXomUscq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +32,85 @@ Here are some ideas to get you started: -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crapbagaah&show_icons=true&locale=en" alt="crapbagaah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crapbagaah&" alt="crapbagaah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crapbagaah&" alt="crapbagaah" /></p>--> 
+
+# Hi there, I'm [Your Name] 👋
+
+![Header](https://your-header-image-url.com)
+
+I am a passionate frontend developer currently pursuing B.Tech in Computer Science with a specialization in Information Security. I love to explore new technologies and leverage them to solve real-life problems.
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on improving my frontend skills.
+- 🌱 I’m currently learning advanced JavaScript and React.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+## 🛠️ Skills
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crapbagaah&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crapbagaah&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crapbagaah&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=crapbagaah&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔍 Find me on
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourleetcodeprofile)
+
+---
+
+## 🎮 Fun Zone: Play a Game
+
+![Snake Game](https://github.com/crapbagaah/crapbagaah/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📅 My Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+![Footer](https://your-footer-image-url.com)
+
+
 
 
