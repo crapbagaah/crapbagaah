@@ -12,11 +12,11 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m looking to collaborate on **webpage designing**
 
-- 👨‍💻 All of my projects are available at [https://sahelisahoo.netlify.app/](https://sahelisahoo.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://sahelisahoo.netlify.app/](https://sahelisahoo.netlify.app/)-->
 
 - 📫 How to reach me **saheli.sahoo.sah@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17NnZype1_XevHhXfmx5o3QbgJXomUscq/view?usp=sharing](https://drive.google.com/file/d/17NnZype1_XevHhXfmx5o3QbgJXomUscq/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/17NnZype1_XevHhXfmx5o3QbgJXomUscq/view?usp=sharing](https://drive.google.com/file/d/17NnZype1_XevHhXfmx5o3QbgJXomUscq/view?usp=sharing)--> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
