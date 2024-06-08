@@ -95,15 +95,10 @@ I am a frontend developer currently pursuing B.Tech in Computer Science with a s
 
 ---
 
-## 🎮 Fun Zone: Play a Game
+<!-- ## 🎮 Fun Zone: Play a Game
 
 ![Snake Game]([https://github.com/crapbagaah/crapbagaah/raw/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation))
-
-
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+-->
 
 ---
 
