@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 <!-- - 👨‍💻 All of my projects are available at [https://sahelisahoo.netlify.app/](https://sahelisahoo.netlify.app/)-->
 
-- 📫 How to reach me **saheli.sahoo.sah@gmail.com**
+- 📫 How to reach me **sahelisahoo1809@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/17NnZype1_XevHhXfmx5o3QbgJXomUscq/view?usp=sharing](https://drive.google.com/file/d/17NnZype1_XevHhXfmx5o3QbgJXomUscq/view?usp=sharing)--> 
 
