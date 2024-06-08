@@ -5,8 +5,6 @@
 
 # Hi there, I'm Saheli 👋
 
-![Header]((https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA))
-
 I am a frontend developer currently pursuing B.Tech in Computer Science with a specialization in Information Security. I love to explore new technologies and leverage them to solve real-life problems.
 
 ---
