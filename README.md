@@ -3,7 +3,20 @@
 <!--
 **crapbagaah/crapbagaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a frontend developer currently pursuing B.Tech in Computer Science with a specialization in Information Security. 
+```java
+public class Introduction {
+    public static void main(String[] args) {
+        String name = "Saheli Sahoo";
+        String studyArea = "Computer Science with Infromation Security";
+        String[] languagesSpoken = {"English", "Bengali", "Hindi", "Spanish"};
+        String description = "I'm a developer with a focus on web development (frontend).
+I like building modern, responsive web applications and continuously learning new technologies.";
+
+        System.out.println("Thanks for dropping by!");
+    }
+}
+```
+<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
 
 - 🌟 My portfolio: [sahelisahoo](https://sahelisahoo.netlify.app/)
 <a href="https://github.com/crapbagaah/portfolio-react">
@@ -82,7 +95,7 @@ I am a frontend developer currently pursuing B.Tech in Computer Science with a s
 
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
 
-## 📅 My Recent Activity
+<!-- ## 📅 My Recent Activity
 
 - Learning: Advanced Java & Full Stack Java
-
+-->
