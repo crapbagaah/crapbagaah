@@ -9,8 +9,7 @@ public class Introduction {
         String name = "Saheli Sahoo";
         String studyArea = "Computer Science with Infromation Security";
         String[] languagesSpoken = {"English", "Bengali", "Hindi", "Spanish"};
-        String description = "I'm a developer with a focus on web development (frontend).
-I like building modern, responsive web applications and continuously learning new technologies.";
+        String description = "I'm a developer with a focus on web development (frontend). I like building modern, responsive web applications and continuously learning new technologies.";
 
         System.out.println("Thanks for dropping by!");
     }
