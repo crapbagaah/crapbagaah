@@ -1,4 +1,4 @@
-## <p align="center">Hi there, welcome to Saheli's profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
+## <p align="center">Hi there! Welcome to Saheli's profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
 <!--
 **crapbagaah/crapbagaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
