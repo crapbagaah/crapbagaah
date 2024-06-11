@@ -6,6 +6,10 @@
 I am a frontend developer currently pursuing B.Tech in Computer Science with a specialization in Information Security. 
 
 - 🌟 My portfolio: [sahelisahoo](https://sahelisahoo.netlify.app/)
+<a href="https://github.com/crapbagaah/portfolio-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crapbagaah&repo=portfolio-react&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="portfolio-react" />
+</a>
+
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
 
 ## 🚀 About Me
