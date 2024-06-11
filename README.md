@@ -93,23 +93,27 @@ public class Introduction {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahelisahoo">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+    
   <a href="https://twitter.com/crapbagaah">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  
   <a href="https://leetcode.com/sahsah">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white&color=006192&logoWidth=30)
-![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white&color=6aa6f8&logoWidth=30)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white&color=6aa6f8&logoWidth=30)
-
-
 
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
+
+## ✨ Tech Jokes 
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="500" style="filter: hue-rotate(180deg);" />
+</p>
+
 
 <!-- ## 📅 My Recent Activity
 
