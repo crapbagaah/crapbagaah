@@ -33,8 +33,7 @@ public class Introduction {
 
 - 🔭 I’m currently working on **improving my frontend skills**.
 - 🌱 I’m currently learning **Java Full Stack**.
-- 🚀 I’m looking to collaborate on **projects that involve front-end development. Whether it's contributing to open-source projects, working on innovative ideas, or collaborating on challenging problems, I'm always eager to join forces and team up**.
-- 🤝 I'm seeking opportunities **to enhance my expertise in front-end development and information security. Whether through internships, freelance projects, collaborations, or networking, I'm eager to grow my skills and knowledge in these areas**.
+- 🚀 🚀 I'm eager to collaborate on **front-end development projects, from open-source contributions to innovative ventures, while seeking avenues to enhance expertise in both front-end development and information security through internships, projects, and networking**.
 - 💬 Feel free to **strike up a conversation about anything!**
 - 📫 How to reach me: [sahelisahoo](mailto:sahelisahoo1809@gmail.com)
 
