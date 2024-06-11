@@ -1,7 +1,8 @@
-## <p align="center">Hi there! Welcome to Saheli's profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
+##  <p align="center"> 🪼 Hi there! Welcome to Saheli's profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
 <!--
 **crapbagaah/crapbagaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 
 ```java
 public class Introduction {
@@ -15,7 +16,7 @@ public class Introduction {
     }
 }
 ```
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
+<!--img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crapbagaah&style=flat-square&color=6aa6f8" alt="Profile Views" /> 
@@ -113,7 +114,9 @@ public class Introduction {
   <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="500" style="filter: hue-rotate(180deg);" />
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 <!-- ## 📅 My Recent Activity
 
 - Learning: Advanced Java & Full Stack Java
