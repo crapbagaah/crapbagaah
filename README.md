@@ -107,7 +107,7 @@ public class Introduction {
 
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
 
-## ✨ Tech Jokes 
+## ✨ Know with me
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="500" style="filter: hue-rotate(180deg);" />
