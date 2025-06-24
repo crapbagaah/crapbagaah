@@ -9,7 +9,7 @@ public class Introduction {
         String name = "Saheli Sahoo";
         String studyArea = "Computer Science with Infromation Security";
         String[] languagesSpoken = {"English", "Bengali", "Hindi", "Spanish"};
-        String description = "I'm a developer with a focus on web development (frontend). I like building modern, responsive web applications and continuously learning new technologies.";
+        String description = "Curious engineer, always learning—from code to concepts, and everything in between";
 
         System.out.println("Thanks for dropping by!");
     }
@@ -31,9 +31,9 @@ public class Introduction {
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **improving my frontend skills**.
-- 🌱 I’m currently learning **Java Full Stack**.
-- 🚀 I'm eager to collaborate on **front-end development projects, from open-source contributions to innovative ventures, while seeking avenues to enhance expertise in both front-end development and information security through internships, projects, and networking**.
+- 🔭 I’m currently working on **improving myself and my skills**.
+- 🌱 I’m always learning **something new**.
+- 🚀 I'm eager to **collaborate on innovative projects, contribute to open source, and network to enhance my expertise.**.
 - 💬 Feel free to **strike up a conversation about anything!**
 - 📫 How to reach me: [sahelisahoo](mailto:sahelisahoo1809@gmail.com)
 
