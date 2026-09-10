@@ -1,123 +1,170 @@
-##  <p align="center"> 🪼 Hi there! Welcome to Saheli's profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
+<h1 align="center">Hey there, I'm Saheli 👋</h1>
 
-<!--
-**crapbagaah/crapbagaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p align="center">
+  <i>Software Engineer • AI & Security • Professional Debugger of My Own Mistakes</i>
+</p>
 
-```java
-public class Introduction {
-    public static void main(String[] args) {
-        String name = "Saheli Sahoo";
-        String studyArea = "Computer Science with Infromation Security";
-        String[] languagesSpoken = {"English", "Bengali", "Hindi", "Spanish"};
-        String description = "Curious engineer, always learning—from code to concepts, and everything in between";
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=crapbagaah&style=flat-square&color=blue" />
+</p>
 
-        System.out.println("Thanks for dropping by!");
-    }
-}
+---
+
+## 🪼 About Me
+
+```python
+class Saheli:
+
+    def __init__(self):
+        self.role = "Software Engineer @ Bank of America"
+        self.education = "B.Tech CSE (Information Security), VIT"
+        self.interests = [
+            "Artificial Intelligence",
+            "Backend Engineering",
+            "Cybersecurity",
+            "Building Useful Things"
+        ]
+
+    def current_status(self):
+        return (
+            "Learning how AI actually works, "
+            "building GenAI applications, "
+            "and collecting debugging stories."
+        )
+
+me = Saheli()
+print(me.current_status())
 ```
-<!--img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"-->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=crapbagaah&style=flat-square&color=6aa6f8" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/stars/crapbagaah?style=flat-square&color=6aa6f8" alt="GitHub Stars" />
-</p>
+Currently working in the Information Security domain, building AI-powered applications and backend systems.
 
-- 🌟 My portfolio: [sahelisahoo](https://sahelisahoo.netlify.app/)
-<a href="https://github.com/crapbagaah/portfolio-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crapbagaah&repo=portfolio-react&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="portfolio-react" />
-</a>
+Most days you'll find me somewhere between:
 
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
+- 🤖 Teaching AI where to find answers
+- 🔍 Debugging things that worked yesterday
+- ☕ Saying "this should be a quick fix"
+- 📚 Going down technical rabbit holes
 
-## 🚀 About Me
+---
 
-- 🔭 I’m currently working on **improving myself and my skills**.
-- 🌱 I’m always learning **something new**.
-- 🚀 I'm eager to **collaborate on innovative projects, contribute to open source, and network to enhance my expertise.**.
-- 💬 Feel free to **strike up a conversation about anything!**
-- 📫 How to reach me: [sahelisahoo](mailto:sahelisahoo1809@gmail.com)
+## 🚀 What I'm Working On
 
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
+- Enterprise GenAI Applications
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Workflow Automation
+- Python Backend Development
+- Search & Knowledge Systems
+- Learning the fundamentals behind AI
 
-## 🛠️ Skills
+---
 
-![Code Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![Code C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
-![Code C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
-![Code Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+## 🛠 Tech Stack
 
-![Framework HTML5](https://img.shields.io/badge/Framework-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
-![Framework CSS3](https://img.shields.io/badge/Framework-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![Framework JavaScript](https://img.shields.io/badge/Framework-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![Framework Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
-![Framework React.js](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![Framework Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=6aa6f8)
+### Languages
 
-![Database MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)
 
-![Tools Figma](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=6aa6f8)
-![Tools Canva](https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=white&color=6aa6f8)
-![Tools Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-![Tools GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-![Tools VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![Tools Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=6aa6f8)
+### AI & Backend
 
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat-square&logo=elasticsearch)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat-square&logo=fastapi)
 
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
+### Frontend
 
-## 📈 GitHub Stats
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat-square&logo=angular)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-333333?style=flat-square&logo=tailwindcss)
 
-<!--p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crapbagaah&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crapbagaah&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crapbagaah&layout=compact&theme=radical" alt="Top Languages" />
-</p-->
+### Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crapbagaah&show_icons=true&theme=blueberry" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crapbagaah&theme=blueberry" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crapbagaah&layout=compact&theme=blueberry" alt="Top Languages" />
-</p>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat-square&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
 
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
+---
+## 📜 Certifications
 
-## 🏆 GitHub Trophies
+🔐 **Certified Ethical Hacker (CEH)** — EC-Council
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crapbagaah&theme=juicyfresh" alt="GitHub Trophies" />
-</p>
+Learning how attackers think so I can build systems that are harder to break.
 
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
+**Key Areas**
+- Penetration Testing
+- Network Security
+- Vulnerability Assessment
+- Web Application Security
+- Ethical Hacking Methodologies
+- Security Fundamentals
+---
 
-## 🔍 Find me on
+## 🌱 Current Learning Journey
+
+```text
+Python Fundamentals      ████████████░░░
+NumPy                    ██████████░░░░
+Pandas                   █████████░░░░░
+Matplotlib               ███████░░░░░░░
+AI/LLM Fundamentals      ███████████░░░
+```
+
+Because using AI is cool.
+
+Understanding how it works is cooler.
+
+---
+
+## 📌 Things I Care About
+
+- Building products people actually use
+- Understanding systems from first principles
+- AI beyond the hype
+- Continuous learning
+- Good documentation
+- Clean code (when deadlines allow 😭)
+
+---
+
+## 🎨 Outside of Tech
+
+When I'm not coding, I'm usually:
+
+- 📷 Taking photos
+- ✈️ Planning my next trip
+- 🎨 Sketching
+- 🚶 Going for long walks
+- 🍳 Experimenting in the kitchen
+- 🌅 Chasing sunsets and beach views
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahelisahoo">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-    
-  <a href="https://twitter.com/crapbagaah">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  
+
   <a href="https://leetcode.com/sahsah">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://sahelisahoo.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
   </a>
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
-
-## ✨ Know with me
+---
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="500" style="filter: hue-rotate(180deg);" />
+  <i>
+    Currently teaching machines to understand humans.
+    <br>
+    Still figuring out humans myself.
+  </i>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-<!-- ## 📅 My Recent Activity
-
-- Learning: Advanced Java & Full Stack Java
--->
