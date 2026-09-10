@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Saheli 👋</h1>
 
 <p align="center">
-  <i>Software Engineer • AI & Security • Professional Debugger of My Own Mistakes</i>
+  <i>Software Engineer @ Bank of America • AI, Security & Backend Engineering • Curious Builder</i>
 </p>
 
 <p align="center">
@@ -13,13 +13,15 @@
 ## 🪼 About Me
 
 ```python
+
 class Saheli:
 
     def __init__(self):
         self.role = "Software Engineer @ Bank of America"
         self.education = "B.Tech CSE (Information Security), VIT"
+        self.certification = "Certified Ethical Hacker (CEH)"
         self.interests = [
-            "Artificial Intelligence",
+            "AI Systems",
             "Backend Engineering",
             "Cybersecurity",
             "Building Useful Things"
@@ -27,9 +29,8 @@ class Saheli:
 
     def current_status(self):
         return (
-            "Learning how AI actually works, "
-            "building GenAI applications, "
-            "and collecting debugging stories."
+            "Building GenAI applications, exploring AI agents, "
+            "MCP tools, and collecting debugging stories."
         )
 
 me = Saheli()
@@ -57,7 +58,21 @@ Most days you'll find me somewhere between:
 - Learning the fundamentals behind AI
 
 ---
+## 🌱 Currently Exploring
 
+- GenAI Applications
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- MCP Tools & Tool Orchestration
+- LangChain / LangGraph
+- Backend Development with Python
+- Search & Knowledge Systems
+
+Because using AI is cool.
+
+Understanding how it works is cooler.
+
+---
 ## 🛠 Tech Stack
 
 ### Languages
@@ -101,22 +116,6 @@ Learning how attackers think so I can build systems that are harder to break.
 - Web Application Security
 - Ethical Hacking Methodologies
 - Security Fundamentals
----
-
-## 🌱 Current Learning Journey
-
-```text
-Python Fundamentals      ████████████░░░
-NumPy                    ██████████░░░░
-Pandas                   █████████░░░░░
-Matplotlib               ███████░░░░░░░
-AI/LLM Fundamentals      ███████████░░░
-```
-
-Because using AI is cool.
-
-Understanding how it works is cooler.
-
 ---
 
 ## 📌 Things I Care About
